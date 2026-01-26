@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>I’m a passionate learner and developer interested in **software development, cloud computing, and DevOps**.  <br>I enjoy building projects, exploring new technologies, and solving real-world problems through code.<br><br>🚀 Interests<br>- Web Development (Frontend & Backend)<br>- Cloud Computing (AWS)<br>- DevOps & Automation<br>- Open-source contributions<br><br>🌱 Currently Learning<br>- Advanced Django & REST APIs  <br>- Docker & CI/CD pipelines  <br>- Cloud architecture fundamentals  <br><br>
+👋 About Me<br><br>Hi! I’m a passionate learner and developer interested in **Software/Game/App Development, Cloud Computing, and DevOps**.  <br>I enjoy building projects, exploring new technologies, and solving real-world problems through code.<br><br>🚀 Interests<br>- Web Development (Frontend & Backend)<br>- Cloud Computing (AWS)<br>- DevOps & Automation<br>- Open-source contributions<br><br>🌱 Currently Learning<br>- Python & Django  <br>- Docker & CI/CD pipelines  <br>- Cloud Computing (AWS basics)  <br><br>🚀 Goals<br>- Build real-world projects<br>- Contribute to open-source<br>Grow as a full-stack developer<br><br>📚 Always learning, always building.<br>📫 Feel free to explore my repositories and connect!<br><br>
 
 
 ## 🌐 Socials:
