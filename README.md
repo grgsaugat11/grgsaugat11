@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-beta-vert.vercel.app/api?username=grgsaugat11&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=grgsaugat11&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=grgsaugat11&theme=tokyonight&hide_border=true&card_height=206" width="48%"/>
 </p>
 
 <p align="center">
