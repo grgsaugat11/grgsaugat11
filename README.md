@@ -11,8 +11,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-beta-vert.vercel.app/api?username=grgsaugat11&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=grgsaugat11&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats-beta-vert.vercel.app/api?username=grgsaugat11&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=grgsaugat11&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -20,6 +20,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-beta-vert.vercel.app/api/top-langs/?username=grgsaugat11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://github-readme-stats-beta-vert.vercel.app/api/top-langs/?username=grgsaugat11&layout=compact&theme=tokyonight&hide_border=true&hide=hack,php" width="40%" />
 </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
