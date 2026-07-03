@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Saugat Gurung
-👋 About Me<br><br>I'm a Computer Engineering student from 🇳🇵 Nepal with a passion for building practical software that solves real-world problems. I enjoy developing full-stack web applications, exploring cloud and DevOps technologies, and learning how AI and data analytics can be integrated into modern systems.<br><br>🚀 Interests<br>- Full Stack Development<br>- Cloud Computing (AWS)<br>- DevOps & Automation<br>- Data Analytics<br><br>🌱 Currently Learning<br>- Python & Django  <br>- Docker & CI/CD pipelines  <br>- Cloud Computing (AWS basics)  <br><br>🚀 Goals<br>- Build real-world projects<br>- Contribute to open-source<br>- Grow as a full-stack developer<br><br>📚 Always learning, always building.<br>📫 Feel free to explore my repositories and connect!<br><br>
+👋 About Me<br><br>I'm an Information Technology (IT) student from 🇳🇵 Nepal with a passion for building practical software that solves real-world problems. I enjoy developing full-stack web applications, exploring cloud and DevOps technologies, and learning how AI and data analytics can be integrated into modern systems.<br><br>🚀 Interests<br>- Full Stack Development<br>- Cloud Computing (AWS)<br>- DevOps & Automation<br>- Data Analytics<br><br>🌱 Currently Learning<br>- Python & Django  <br>- Docker & CI/CD pipelines  <br>- Cloud Computing (AWS basics)  <br><br>🚀 Goals<br>- Build real-world projects<br>- Contribute to open-source<br>- Grow as a full-stack developer<br><br>📚 Always learning, always building.<br>📫 Feel free to explore my repositories and connect!<br><br>
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=grgsaugat11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=grgsaugat11&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=grgsaugat11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=grgsaugat11&icon=0&color=4)](https://visitcount.itsvg.in)
