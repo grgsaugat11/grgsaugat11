@@ -11,8 +11,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-beta-vert.vercel.app/api?username=grgsaugat11&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=grgsaugat11&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-beta-vert.vercel.app/api?username=grgsaugat11&show_icons=true&theme=tokyonight&hide_border=true" width="48%" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=grgsaugat11&theme=tokyonight&hide_border=true" width="48%" height="180em"/>
 </p>
 
 <p align="center">
