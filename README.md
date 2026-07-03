@@ -20,6 +20,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-beta-vert.vercel.app/api/top-langs/?username=grgsaugat11&layout=compact&theme=tokyonight&hide_border=true&hide=hack,php" width="98%" />
+  <img src="https://github-readme-stats-beta-vert.vercel.app/api/top-langs/?username=grgsaugat11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
